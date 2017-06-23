@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Particle.cs" />
     <Compile Include="Screensaver.cs">
       <SubType>Form</SubType>
     </Compile>
